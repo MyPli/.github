@@ -58,7 +58,25 @@ $ npm run dev
 
 ## 폴더 구조
 ```
-프론트엔드 개발 폴더 구조에 대한 설명을 작성해주세요
+front/
+├── action/                 # 서버 액션 (Server Actions)
+│
+├── app/                    # Next.js App Router
+│   ├── (root)/             # 페이지 라우팅
+│   └── fonts/              # 폰트 파일
+│
+├── components/             # UI 컴포넌트
+│   ├── commons/            # 공통 컴포넌트 (버튼, 인풋 등)
+│   └── layout/             # 레이아웃 관련 컴포넌트
+│
+├── hooks/                  # 커스텀 훅 관리
+│   ├── queries/            # React Query 관련 훅
+│   └── utils/              # 유틸리티 커스텀 훅
+│
+├── models/                 # 타입스크립트 인터페이스/타입
+├── public/                 # 정적 소스 (이미지, 아이콘 등)
+├── store/                  # Zustand 상태 관리
+└── utils/                  # 유틸리티 함수
 ```
 
 ```
