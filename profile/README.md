@@ -1,6 +1,6 @@
 # 🎧 MyPli
 
-- 배포 URL:
+- 배포 URL: https://my-pli.netlify.app/
 
 - 테스트 메일: `test4@mail.com`
 
