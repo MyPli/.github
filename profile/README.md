@@ -123,7 +123,7 @@ backend/
 <br />
 
 ## 트러블슈팅
-- **[프론트엔드에서 하나 작성해주시면 될것 같습니다](https://)** 
+- **[트러블슈팅 : 디바운스](https://www.notion.so/165f264b9d4e807c9819db730df63629))** 
 - **[트러블슈팅: 플레이리스트 생성 및 곡 추가 구조 개선](https://clean-indigo-57d.notion.site/163382bd5b8e805393c1e0ce736d846c?pvs=4)** 
   
 <br />
