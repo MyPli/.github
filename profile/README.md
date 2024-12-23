@@ -141,18 +141,19 @@ backend/
 
 | 메인 페이지 | 검색 페이지 |
 | -- | -- |
-|<img width="300" alt="스크린샷 2024-12-23 오후 1 04 32" src="https://github.com/user-attachments/assets/7616fcfc-17e2-472f-b9ce-ec8e7bb209a3" />|<img width="300" alt="스크린샷 2024-12-23 오후 1 23 14" src="https://github.com/user-attachments/assets/c7e0a490-9575-408f-aa53-88bbd444cfb7" />|
+|<img width="350" alt="스크린샷 2024-12-23 오후 1 04 32" src="https://github.com/user-attachments/assets/7616fcfc-17e2-472f-b9ce-ec8e7bb209a3" />|<img width="350" alt="스크린샷 2024-12-23 오후 1 23 14" src="https://github.com/user-attachments/assets/c7e0a490-9575-408f-aa53-88bbd444cfb7" />|
 
 
-| 내 플레이리스트 페이지 | 좋아요한 플레이리스트 페이지 |
+| 내 플레이리스트 페이지 | 플레이리스트 재생 |
 | -- | -- |
-|<img width="350" alt="스크린샷 2024-12-23 오후 1 04 32" src="https://github.com/user-attachments/assets/7616fcfc-17e2-472f-b9ce-ec8e7bb209a3" />| <img width="350" alt="스크린샷 2024-12-23 오후 1 32 29" src="https://github.com/user-attachments/assets/e929dc5c-5c2b-4bc1-b9bc-8f01671d998e" />|
+|<img width="350" alt="스크린샷 2024-12-23 오후 1 04 32" src="https://github.com/user-attachments/assets/7616fcfc-17e2-472f-b9ce-ec8e7bb209a3" />| <img width="350" alt="스크린샷 2024-12-23 오후 1 40 31" src="https://github.com/user-attachments/assets/1348e1c1-7b45-4d79-989b-9073aff39e6d" />|
 
 
 
-| 플레이리스트 생성 페이지 | 수정 페이지 |  
+
+| 좋아요한 플레이리스트 페이지 | 플레이리스트 생성 페이지 |  
 | -- | -- |
-|<img width="350" alt="스크린샷 2024-12-23 오전 10 21 14" src="https://github.com/user-attachments/assets/f4732f58-0bd7-449c-8456-92880229272e" />|<img width="350" alt="스크린샷 2024-12-23 오전 10 29 02" src="https://github.com/user-attachments/assets/90c87714-04df-41dd-baad-161e391d550c" />|
+|<img width="350" alt="스크린샷 2024-12-23 오후 1 32 29" src="https://github.com/user-attachments/assets/e929dc5c-5c2b-4bc1-b9bc-8f01671d998e" />|<img width="350" alt="스크린샷 2024-12-23 오전 10 21 14" src="https://github.com/user-attachments/assets/f4732f58-0bd7-449c-8456-92880229272e" />|
 
 
 | 검색 |트랙 추가 |
