@@ -136,7 +136,7 @@ backend/
 
 | 회원가입 | 로그인 페이지 | 마이페이지 |
 | -- | -- | -- |
-|<img width="200" alt="스크린샷 2024-12-23 오전 12 08 40" src="https://github.com/user-attachments/assets/562a36cc-46b0-4470-bf80-ee373c255303" /> | <img width="200" alt="스크린샷 2024-12-23 오전 12 08 15" src="https://github.com/user-attachments/assets/3c1f1e10-0007-4c3a-aec7-e313ac8b1e17" />|<img width="200" alt="스크린샷 2024-12-23 오후 1 02 30" src="https://github.com/user-attachments/assets/02f33c41-85a8-408e-a614-5a86e198d11b" />|
+|<img width="200" alt="스크린샷 2024-12-23 오전 12 08 40" src="https://github.com/user-attachments/assets/562a36cc-46b0-4470-bf80-ee373c255303" /> | <img width="200" alt="스크린샷 2024-12-23 오전 12 08 15" src="https://github.com/user-attachments/assets/3c1f1e10-0007-4c3a-aec7-e313ac8b1e17" />|<img width="200" alt="스크린샷 2024-12-23 오후 1 36 15" src="https://github.com/user-attachments/assets/86c3a969-1a77-469b-9c87-d37b9c19889a" />|
 
 
 | 메인 페이지 | 검색 페이지 |
@@ -151,7 +151,7 @@ backend/
 
 
 | 플레이리스트 생성 페이지 | 수정 페이지 |  
-| -- | -- | -
+| -- | -- |
 |<img width="300" alt="스크린샷 2024-12-23 오전 10 21 14" src="https://github.com/user-attachments/assets/f4732f58-0bd7-449c-8456-92880229272e" />|<img width="300" alt="스크린샷 2024-12-23 오전 10 29 02" src="https://github.com/user-attachments/assets/90c87714-04df-41dd-baad-161e391d550c" />|
 
 
