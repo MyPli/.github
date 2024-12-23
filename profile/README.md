@@ -146,18 +146,18 @@ backend/
 
 | 내 플레이리스트 페이지 | 좋아요한 플레이리스트 페이지 |
 | -- | -- |
-|<img width="300" alt="스크린샷 2024-12-23 오후 1 04 32" src="https://github.com/user-attachments/assets/7616fcfc-17e2-472f-b9ce-ec8e7bb209a3" />| <img width="300" alt="스크린샷 2024-12-23 오후 1 32 29" src="https://github.com/user-attachments/assets/e929dc5c-5c2b-4bc1-b9bc-8f01671d998e" />|
+|<img width="350" alt="스크린샷 2024-12-23 오후 1 04 32" src="https://github.com/user-attachments/assets/7616fcfc-17e2-472f-b9ce-ec8e7bb209a3" />| <img width="350" alt="스크린샷 2024-12-23 오후 1 32 29" src="https://github.com/user-attachments/assets/e929dc5c-5c2b-4bc1-b9bc-8f01671d998e" />|
 
 
 
 | 플레이리스트 생성 페이지 | 수정 페이지 |  
 | -- | -- |
-|<img width="300" alt="스크린샷 2024-12-23 오전 10 21 14" src="https://github.com/user-attachments/assets/f4732f58-0bd7-449c-8456-92880229272e" />|<img width="300" alt="스크린샷 2024-12-23 오전 10 29 02" src="https://github.com/user-attachments/assets/90c87714-04df-41dd-baad-161e391d550c" />|
+|<img width="350" alt="스크린샷 2024-12-23 오전 10 21 14" src="https://github.com/user-attachments/assets/f4732f58-0bd7-449c-8456-92880229272e" />|<img width="350" alt="스크린샷 2024-12-23 오전 10 29 02" src="https://github.com/user-attachments/assets/90c87714-04df-41dd-baad-161e391d550c" />|
 
 
-| 수정 페이지 | 검색 |트랙 추가 |
-| -- | -- | -- |
-||<img width="200" alt="스크린샷 2024-12-23 오전 10 25 59" src="https://github.com/user-attachments/assets/d0bea0fa-49af-4a12-9699-06b23d20c77f" />|<img width="200" alt="스크린샷 2024-12-23 오전 10 26 09" src="https://github.com/user-attachments/assets/ab6ec17f-b0f5-465f-907b-21dbdfd68867" />|
+| 검색 |트랙 추가 |
+|  -- | -- |
+|<img width="200" alt="스크린샷 2024-12-23 오전 10 25 59" src="https://github.com/user-attachments/assets/d0bea0fa-49af-4a12-9699-06b23d20c77f" />|<img width="400" alt="스크린샷 2024-12-23 오전 10 26 09" src="https://github.com/user-attachments/assets/ab6ec17f-b0f5-465f-907b-21dbdfd68867" />|
 
 <br />
 
