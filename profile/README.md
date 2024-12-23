@@ -1,4 +1,5 @@
 # 🎧 MyPli
+![Group 1171275928](https://github.com/user-attachments/assets/89f53ca8-d79c-4953-9fee-31f9640b2b9f)
 
 - 배포 URL: https://my-pli.netlify.app/
 
